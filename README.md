@@ -6,7 +6,7 @@ Image Segmentation is the process of dividing the image into multiple segments. 
 
 # Demo
 
-<img src="Images/demo2.gif" width=500>
+<img src="Images/demo.gif" width=500>
 
 
 # Pre-requisites
