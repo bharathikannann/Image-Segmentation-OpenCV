@@ -6,9 +6,6 @@ Image Segmentation is the process of dividing the image into multiple segments. 
 
 # Demo
 
-
-<img src="Images/demo.gif" width=500>
-<hr>
 <img src="Images/demo2.gif" width=500>
 
 
@@ -24,3 +21,9 @@ Download and install the following modules:
 2) Each digits (0-9) have seperate colors, Press any digit and left click on the image as many times as you want
 3) Repeat 2nd step with different colours for each segments
 4) The segmented image will be updated each time
+5) Press C to clear points
+6) Press ESC to stop the program
+
+Bharathi kannan
+<a href="https://bharathikannann.github.io/" target="_blank">Portfolio</a> <a href="https://linkedin.com/in/bharathikannann">LinkedIn</a><br>
+Keep coding! :)
